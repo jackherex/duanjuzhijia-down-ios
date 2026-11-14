@@ -1,26 +1,27 @@
 {
-  "version": "4.6.8+167",
-  "versionName": "4.6.8",
-  "build": 167,
-  "publishedAt": "2026-11-13T10:15:53Z",
-  "notes": "**临时紧急更新**\n\n- 修复：红果接口调整后，所有剧集都播放不了（提示「红果 App 接口未返回有效数据」）\n- 修复：看到一半退到后台、过一会儿回来播放不了\n- 在线更新改为在应用里下载安装包，下完弹出分享面板，交给你的签名软件安装\n- 极少数只提供新编码的剧集暂时仍播不了，会提示「未返回兼容的媒体」",
-  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/tag/ios-v4.6.8-167",
+  "version": "4.6.10+169",
+  "versionName": "4.6.10",
+  "build": 169,
+  "publishedAt": "2026-11-14T00:11:36Z",
+  "notes": "- 播放更快：换集基本秒开，下一集提前准备好\n- 修复退到后台再回来，下一集一直「准备恢复播放」\n- 新增「安装到 Apple TV」：iPhone 直接给 Apple TV 装短剧之家，快到期时提醒续签\n- 播放设置新增「调试信息」开关，方便反馈问题\n",
+  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/tag/ios-app-v4.6.10-169",
   "force": false,
   "assets": [
     {
       "edition": "duanjuzhijia2",
       "abi": "ios",
-      "name": "duanjuzhijia2-4.6.8+167-ios-unsigned.ipa",
-      "url": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-v4.6.8-167/duanjuzhijia2-4.6.8%2B167-ios-unsigned.ipa",
+      "name": "duanjuzhijia2-4.6.10+169-ios-unsigned.ipa",
+      "url": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.10-169/duanjuzhijia2-4.6.10%2B169-ios-unsigned.ipa",
       "urls": [
-        "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-v4.6.8-167/duanjuzhijia2-4.6.8%2B167-ios-unsigned.ipa",
-        "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-v4.6.8-167/duanjuzhijia2-4.6.8%2B167-ios-unsigned.ipa",
-        "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-v4.6.8-167/duanjuzhijia2-4.6.8%2B167-ios-unsigned.ipa",
-        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-v4.6.8-167/duanjuzhijia2-4.6.8%2B167-ios-unsigned.ipa"
+        "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.10-169/duanjuzhijia2-4.6.10%2B169-ios-unsigned.ipa",
+        "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.10-169/duanjuzhijia2-4.6.10%2B169-ios-unsigned.ipa",
+        "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.10-169/duanjuzhijia2-4.6.10%2B169-ios-unsigned.ipa",
+        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.10-169/duanjuzhijia2-4.6.10%2B169-ios-unsigned.ipa"
       ],
-      "size": 32227302,
-      "sha256": "de1e4880940bf176061935c9ceb6fdb81ffa3da3c3c867d645a60c6057af86a3",
-      "notes": "**临时紧急更新**\n\n- 修复：红果接口调整后，所有剧集都播放不了（提示「红果 App 接口未返回有效数据」）\n- 修复：看到一半退到后台、过一会儿回来播放不了\n- 在线更新改为在应用里下载安装包，下完弹出分享面板，交给你的签名软件安装\n- 极少数只提供新编码的剧集暂时仍播不了，会提示「未返回兼容的媒体」"
+      "size": 39769475,
+      "sha256": "1f1c62f5ec42b85d34ad11f17c29eb1862ff35aa1b022bf6cdf61c472cf5fe0a",
+      "notes": "- 播放更快：换集基本秒开，下一集提前准备好\n- 修复退到后台再回来，下一集一直「准备恢复播放」\n- 新增「安装到 Apple TV」：iPhone 直接给 Apple TV 装短剧之家，快到期时提醒续签\n- 播放设置新增「调试信息」开关，方便反馈问题\n"
     }
-  ]
+  ],
+  "versionCode": 42610
 }
