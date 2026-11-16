@@ -1,27 +1,27 @@
 {
-  "version": "4.6.11+170",
-  "versionName": "4.6.11",
-  "build": 170,
-  "publishedAt": "2026-11-14T06:18:43Z",
-  "notes": "- 新增「推送到短剧之家投屏端」：播放页「推送到其他设备」里多了一项，给老电视盒子用，连播、弹幕表情、远程拖进度都支持（盒子端投屏 App 即将发布）\n- 红果暂时只给新编码版本的剧集，提示改为「过一会儿再试」，不再像是软件出错\n",
-  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/tag/ios-app-v4.6.11-170",
+  "version": "4.6.19+186",
+  "versionName": "4.6.19",
+  "build": 186,
+  "publishedAt": "2026-11-16T07:25:14Z",
+  "notes": "- 新增：竖屏上下滑动切换上一集 / 下一集（播放设置里开启，默认关闭），自动预加载后面三集，切集无缝秒播\n- 修复：自动切下一集偶尔卡在 0:00 不动，现在会自己重新加载\n- 优化：在线更新不再中途自动换线路（避免安装包损坏），下载慢可手动点「切换线路」\n- 调整：竖屏播放时定时关闭（月亮）放到顶部，小窗按钮放到底部\n",
+  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/tag/ios-app-v4.6.19-186",
   "force": false,
   "assets": [
     {
       "edition": "duanjuzhijia2",
       "abi": "ios",
-      "name": "duanjuzhijia2-4.6.11+170-ios-unsigned.ipa",
-      "url": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.11-170/duanjuzhijia2-4.6.11%2B170-ios-unsigned.ipa",
+      "name": "duanjuzhijia2-4.6.19+186-ios-unsigned.ipa",
+      "url": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.19-186/duanjuzhijia2-4.6.19%2B186-ios-unsigned.ipa",
       "urls": [
-        "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.11-170/duanjuzhijia2-4.6.11%2B170-ios-unsigned.ipa",
-        "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.11-170/duanjuzhijia2-4.6.11%2B170-ios-unsigned.ipa",
-        "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.11-170/duanjuzhijia2-4.6.11%2B170-ios-unsigned.ipa",
-        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.11-170/duanjuzhijia2-4.6.11%2B170-ios-unsigned.ipa"
+        "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.19-186/duanjuzhijia2-4.6.19%2B186-ios-unsigned.ipa",
+        "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.19-186/duanjuzhijia2-4.6.19%2B186-ios-unsigned.ipa",
+        "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.19-186/duanjuzhijia2-4.6.19%2B186-ios-unsigned.ipa",
+        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.19-186/duanjuzhijia2-4.6.19%2B186-ios-unsigned.ipa"
       ],
-      "size": 39793243,
-      "sha256": "499503cabd1dbdc798dcdf8c385c59ef7d5c7063c4c03c3cae45906f20a3ae9a",
-      "notes": "- 新增「推送到短剧之家投屏端」：播放页「推送到其他设备」里多了一项，给老电视盒子用，连播、弹幕表情、远程拖进度都支持（盒子端投屏 App 即将发布）\n- 红果暂时只给新编码版本的剧集，提示改为「过一会儿再试」，不再像是软件出错\n"
+      "size": 39845956,
+      "sha256": "fbc1ded436dad33c57be3eee8a7d803b2e605b91bf7260cbd141f00cfdf424f9",
+      "notes": "- 新增：竖屏上下滑动切换上一集 / 下一集（播放设置里开启，默认关闭），自动预加载后面三集，切集无缝秒播\n- 修复：自动切下一集偶尔卡在 0:00 不动，现在会自己重新加载\n- 优化：在线更新不再中途自动换线路（避免安装包损坏），下载慢可手动点「切换线路」\n- 调整：竖屏播放时定时关闭（月亮）放到顶部，小窗按钮放到底部\n"
     }
   ],
-  "versionCode": 42611
+  "versionCode": 42619
 }
