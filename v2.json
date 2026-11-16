@@ -1,27 +1,27 @@
 {
-  "version": "4.6.19+186",
-  "versionName": "4.6.19",
-  "build": 186,
-  "publishedAt": "2026-11-16T07:25:14Z",
-  "notes": "- 新增：竖屏上下滑动切换上一集 / 下一集（播放设置里开启，默认关闭），自动预加载后面三集，切集无缝秒播\n- 修复：自动切下一集偶尔卡在 0:00 不动，现在会自己重新加载\n- 优化：在线更新不再中途自动换线路（避免安装包损坏），下载慢可手动点「切换线路」\n- 调整：竖屏播放时定时关闭（月亮）放到顶部，小窗按钮放到底部\n",
-  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/tag/ios-app-v4.6.19-186",
+  "version": "4.6.21+189",
+  "versionName": "4.6.21",
+  "build": 189,
+  "publishedAt": "2026-11-16T11:11:47Z",
+  "notes": "- 修复：红果短剧全部无法播放（能搜索、能进详情，一点播放就失败）的问题\n",
+  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/tag/ios-app-v4.6.21-189",
   "force": false,
   "assets": [
     {
       "edition": "duanjuzhijia2",
       "abi": "ios",
-      "name": "duanjuzhijia2-4.6.19+186-ios-unsigned.ipa",
-      "url": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.19-186/duanjuzhijia2-4.6.19%2B186-ios-unsigned.ipa",
+      "name": "duanjuzhijia2-4.6.21+189-ios-unsigned.ipa",
+      "url": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.21-189/duanjuzhijia2-4.6.21%2B189-ios-unsigned.ipa",
       "urls": [
-        "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.19-186/duanjuzhijia2-4.6.19%2B186-ios-unsigned.ipa",
-        "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.19-186/duanjuzhijia2-4.6.19%2B186-ios-unsigned.ipa",
-        "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.19-186/duanjuzhijia2-4.6.19%2B186-ios-unsigned.ipa",
-        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.19-186/duanjuzhijia2-4.6.19%2B186-ios-unsigned.ipa"
+        "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.21-189/duanjuzhijia2-4.6.21%2B189-ios-unsigned.ipa",
+        "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.21-189/duanjuzhijia2-4.6.21%2B189-ios-unsigned.ipa",
+        "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.21-189/duanjuzhijia2-4.6.21%2B189-ios-unsigned.ipa",
+        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.21-189/duanjuzhijia2-4.6.21%2B189-ios-unsigned.ipa"
       ],
-      "size": 39845956,
-      "sha256": "fbc1ded436dad33c57be3eee8a7d803b2e605b91bf7260cbd141f00cfdf424f9",
-      "notes": "- 新增：竖屏上下滑动切换上一集 / 下一集（播放设置里开启，默认关闭），自动预加载后面三集，切集无缝秒播\n- 修复：自动切下一集偶尔卡在 0:00 不动，现在会自己重新加载\n- 优化：在线更新不再中途自动换线路（避免安装包损坏），下载慢可手动点「切换线路」\n- 调整：竖屏播放时定时关闭（月亮）放到顶部，小窗按钮放到底部\n"
+      "size": 39872471,
+      "sha256": "ced368c4fccb6088b1df17e7efab1ac79b865f4cad3da525c422b912e97e7447",
+      "notes": "- 修复：红果短剧全部无法播放（能搜索、能进详情，一点播放就失败）的问题\n"
     }
   ],
-  "versionCode": 42619
+  "versionCode": 42621
 }
