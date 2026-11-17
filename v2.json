@@ -1,27 +1,27 @@
 {
-  "version": "4.6.22+190",
-  "versionName": "4.6.22",
-  "build": 190,
-  "publishedAt": "2026-11-16T13:55:52Z",
-  "notes": "- 修复：新剧日历、找剧打不开（空白）的问题\n",
-  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/tag/ios-app-v4.6.22-190",
+  "version": "4.6.23+192",
+  "versionName": "4.6.23",
+  "build": 192,
+  "publishedAt": "2026-11-17T02:55:22Z",
+  "notes": "- 新增：首页「刷一刷」，上下滑动刷剧，可收藏、点赞、看完整剧集（内测功能，可能存在一些小问题）\n- 新增：评论支持回复\n",
+  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/tag/ios-app-v4.6.23-192",
   "force": false,
   "assets": [
     {
       "edition": "duanjuzhijia2",
       "abi": "ios",
-      "name": "duanjuzhijia2-4.6.22+190-ios-unsigned.ipa",
-      "url": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.22-190/duanjuzhijia2-4.6.22%2B190-ios-unsigned.ipa",
+      "name": "duanjuzhijia2-4.6.23+192-ios-unsigned.ipa",
+      "url": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.23-192/duanjuzhijia2-4.6.23%2B192-ios-unsigned.ipa",
       "urls": [
-        "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.22-190/duanjuzhijia2-4.6.22%2B190-ios-unsigned.ipa",
-        "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.22-190/duanjuzhijia2-4.6.22%2B190-ios-unsigned.ipa",
-        "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.22-190/duanjuzhijia2-4.6.22%2B190-ios-unsigned.ipa",
-        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.22-190/duanjuzhijia2-4.6.22%2B190-ios-unsigned.ipa"
+        "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.23-192/duanjuzhijia2-4.6.23%2B192-ios-unsigned.ipa",
+        "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.23-192/duanjuzhijia2-4.6.23%2B192-ios-unsigned.ipa",
+        "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.23-192/duanjuzhijia2-4.6.23%2B192-ios-unsigned.ipa",
+        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.23-192/duanjuzhijia2-4.6.23%2B192-ios-unsigned.ipa"
       ],
-      "size": 39871681,
-      "sha256": "5c6340b78a5745049e480c25ac587ecd2863e0e0bea6a5695745e86599ae3f66",
-      "notes": "- 修复：新剧日历、找剧打不开（空白）的问题\n"
+      "size": 39957291,
+      "sha256": "6f67c4ae47b8d7eb6d4dd7c2c8f8eb9bc3ae221315ba3b2b4e87d29a32c00e41",
+      "notes": "- 新增：首页「刷一刷」，上下滑动刷剧，可收藏、点赞、看完整剧集（内测功能，可能存在一些小问题）\n- 新增：评论支持回复\n"
     }
   ],
-  "versionCode": 42622
+  "versionCode": 42623
 }
