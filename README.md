@@ -8,7 +8,7 @@
 
 **免费使用**
 
-[**⬇ 下载 iOS 安装包（IPA）**](https://github.com/jackherex/duanjuzhijia-down-ios/releases/latest)　｜　[全部版本](https://github.com/jackherex/duanjuzhijia-down-ios/releases)
+[**⬇ 下载 iOS 安装包（IPA）**](https://github.com/jackherex/duanjuzhijia-down-ios/releases/latest)　｜　[全部版本](https://github.com/jackherex/duanjuzhijia-down-ios/releases)　｜　[❤️ 爱发电赞助支持](https://afdian.com/a/duanjuzhijia)
 
 适用于 **iOS / iPadOS 15 及以上**。普通使用**只需要下载 `.ipa`**，不需要下载页面里的其它文件。
 
@@ -37,6 +37,12 @@ iOS 包从这一版起单独放在这里，安卓下载页不再放 IPA。
 ## 使用反馈
 
 遇到问题请到 [反馈区](https://github.com/jackherex/duanjuzhijia-down-ios/issues) 说明：**机型、iOS 版本、软件版本**（设置页最下方能看到），以及**怎么操作会出现问题**。
+
+## 赞助支持
+
+如果觉得软件好用，欢迎通过爱发电赞助支持项目持续维护与更新（自愿支持，不影响免费使用）：
+
+- 爱发电主页：[**https://afdian.com/a/duanjuzhijia**](https://afdian.com/a/duanjuzhijia)
 
 ## 关于本仓库
 
