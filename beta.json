@@ -1,0 +1,36 @@
+{
+  "version": "4.6.87+266",
+  "versionName": "4.6.87",
+  "build": 266,
+  "versionCode": 42687,
+  "beta": true,
+  "minVersion": "",
+  "force": false,
+  "publishedAt": "2026-11-25T05:52:12Z",
+  "notes": "- 新增：iOS 端小智 AI 完整双向语音（内置 Xiph libopus 编解码，支持「按住说话」、持续「打电话」通话模式与小智语音回复播报）\n- 修复：iOS 端「按住说话 / 打电话」按钮无法点击、打字回复无语音播报以及上滑取消与弹窗手势冲突的问题\n- 修复：红果综合搜索接口分页参数变更导致搜不到剧的问题\n- 提示：首次语音对话请在系统弹窗中授予麦克风权限\n",
+  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/tag/ios-app-v4.6.87-266-beta",
+  "gate": {
+    "salt": "djzj-2285498e2ed7",
+    "hash": "d4e4fdd5e2e353de5b7ec05e9a401b93a6a40d96556afea405d574c3a40758bf",
+    "iterations": 2000,
+    "group": "https://t.me/duanjuzhijia",
+    "hint": "4 位数字"
+  },
+  "assets": [
+    {
+      "edition": "duanjuzhijia2",
+      "abi": "ios",
+      "name": "duanjuzhijia2-4.6.87+266-ios-unsigned.ipa",
+      "url": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.87-266-beta/duanjuzhijia2-4.6.87%2B266-ios-unsigned.ipa",
+      "urls": [
+        "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.87-266-beta/duanjuzhijia2-4.6.87%2B266-ios-unsigned.ipa",
+        "https://gh-proxy.org/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.87-266-beta/duanjuzhijia2-4.6.87%2B266-ios-unsigned.ipa",
+        "https://ghm.078465.xyz/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.87-266-beta/duanjuzhijia2-4.6.87%2B266-ios-unsigned.ipa",
+        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.87-266-beta/duanjuzhijia2-4.6.87%2B266-ios-unsigned.ipa"
+      ],
+      "size": 44082566,
+      "sha256": "bdaf741a3fea3436df989709154f415a61167e54c1b3b869ea4e479982071a99",
+      "notes": "- 新增：iOS 端小智 AI 完整双向语音（内置 Xiph libopus 编解码，支持「按住说话」、持续「打电话」通话模式与小智语音回复播报）\n- 修复：iOS 端「按住说话 / 打电话」按钮无法点击、打字回复无语音播报以及上滑取消与弹窗手势冲突的问题\n- 修复：红果综合搜索接口分页参数变更导致搜不到剧的问题\n- 提示：首次语音对话请在系统弹窗中授予麦克风权限\n"
+    }
+  ]
+}
