@@ -1,13 +1,13 @@
 {
-  "version": "4.6.86+265",
-  "versionName": "4.6.86",
-  "build": 265,
-  "versionCode": 42686,
+  "version": "4.6.91+270",
+  "versionName": "4.6.91",
+  "build": 270,
+  "versionCode": 42691,
   "minVersion": "",
   "force": false,
-  "publishedAt": "2026-11-25T04:24:50Z",
-  "notes": "- 修复：播放接口失效问题，恢复全量剧集正常播放\n- 新增：AI 语音助手（支持云端搜剧、找剧、热榜/猜你喜欢查询与语音播控）\n- 优化：页面切换流畅度全面提升，首页与各页签切换不再卡顿；保留 iOS 26 原生 Liquid Glass 底部导航栏\n- 优化：WebDAV 云端同步提速并新增同步设备管理，封面与目录缓存策略优化\n- 修复：弹幕渲染掉帧卡顿、平板横屏适配与红果登录滑块验证\n",
-  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/tag/ios-app-v4.6.86-265",
+  "publishedAt": "2026-11-25T12:49:15Z",
+  "notes": "- 优化：详情页「查全季」弹窗全新改版，展示各季封面卡片并新增云预约入口\n- 修复：本地下载合并队列偶发处理失败的问题，并全面美化合并队列界面\n- 优化：投屏端预加载与连播切集体验，播放与切集更流畅\n- 优化：小智 AI 双向语音对话体验与网络稳定性\n",
+  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/tag/ios-app-v4.6.91-270",
   "gate": {
     "salt": "djzj-2285498e2ed7",
     "hash": "d4e4fdd5e2e353de5b7ec05e9a401b93a6a40d96556afea405d574c3a40758bf",
@@ -19,17 +19,17 @@
     {
       "edition": "duanjuzhijia2",
       "abi": "ios",
-      "name": "duanjuzhijia2-4.6.86+265-ios-unsigned.ipa",
-      "url": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.86-265/duanjuzhijia2-4.6.86%2B265-ios-unsigned.ipa",
+      "name": "duanjuzhijia2-4.6.91+270-ios-unsigned.ipa",
+      "url": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.91-270/duanjuzhijia2-4.6.91%2B270-ios-unsigned.ipa",
       "urls": [
-        "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.86-265/duanjuzhijia2-4.6.86%2B265-ios-unsigned.ipa",
-        "https://gh-proxy.org/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.86-265/duanjuzhijia2-4.6.86%2B265-ios-unsigned.ipa",
-        "https://ghm.078465.xyz/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.86-265/duanjuzhijia2-4.6.86%2B265-ios-unsigned.ipa",
-        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.86-265/duanjuzhijia2-4.6.86%2B265-ios-unsigned.ipa"
+        "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.91-270/duanjuzhijia2-4.6.91%2B270-ios-unsigned.ipa",
+        "https://gh-proxy.org/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.91-270/duanjuzhijia2-4.6.91%2B270-ios-unsigned.ipa",
+        "https://ghm.078465.xyz/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.91-270/duanjuzhijia2-4.6.91%2B270-ios-unsigned.ipa",
+        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.91-270/duanjuzhijia2-4.6.91%2B270-ios-unsigned.ipa"
       ],
-      "size": 43812307,
-      "sha256": "1a92e95ee6e16cd58f485e80271291c0c7163166ee294809074be564d2a325d0",
-      "notes": "- 修复：播放接口失效问题，恢复全量剧集正常播放\n- 新增：AI 语音助手（支持云端搜剧、找剧、热榜/猜你喜欢查询与语音播控）\n- 优化：页面切换流畅度全面提升，首页与各页签切换不再卡顿；保留 iOS 26 原生 Liquid Glass 底部导航栏\n- 优化：WebDAV 云端同步提速并新增同步设备管理，封面与目录缓存策略优化\n- 修复：弹幕渲染掉帧卡顿、平板横屏适配与红果登录滑块验证\n"
+      "size": 44113713,
+      "sha256": "2fe8500540d83bd90367542d809f0e7269d41ada818dd709a71bc69d38db13e3",
+      "notes": "- 优化：详情页「查全季」弹窗全新改版，展示各季封面卡片并新增云预约入口\n- 修复：本地下载合并队列偶发处理失败的问题，并全面美化合并队列界面\n- 优化：投屏端预加载与连播切集体验，播放与切集更流畅\n- 优化：小智 AI 双向语音对话体验与网络稳定性\n"
     }
   ]
 }
