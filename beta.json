@@ -1,36 +1,33 @@
 {
-  "version": "4.6.92+271",
-  "versionName": "4.6.92",
-  "build": 271,
-  "versionCode": 42692,
-  "beta": true,
-  "minVersion": "",
+  "version": "4.6.126+305",
+  "versionName": "4.6.126",
+  "build": 305,
+  "publishedAt": "2026-11-28T16:13:02Z",
+  "notes": "- 全新设计：「刷一刷」与「找剧」页面全面重构升级，刷一刷顶部频道栏、底部悬浮剧集胶囊、无边框右侧操作栏与选集抽屉焕然一新；找剧页升级液态玻璃分类栏与筛选面板\n- 新增：刷一刷与完整/全屏播放器接入视频缩略图雪碧图（支持拖动进度条与横滑画面实时预览、两级并发预加载与流光加载动画），可在「播放设置」随时开关（默认开启）\n- 新增：长按加速支持上下滑动实时调节倍速（默认关闭），可在「播放设置 → 手势与操作」开启并自定义滑动方向、每档倍速步进与滑动幅度\n- 优化：大幅提升刷一刷连续下滑与切集流畅度（切集瞬间静音、快速连滑防抖、杜绝页面回弹错位、预热后续 50 集首帧缩略图）；「全屏观看」直接进入全屏播放器不再绕道详情页\n- 优化：同步升级红果客户端协议、多节点健康轮换与后台 3 集滚动预热，修复找剧页筛选无数据、暂停时点击居中播放图标无响应等问题",
+  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/tag/ios-v4.6.126-305-beta",
   "force": false,
-  "publishedAt": "2026-11-26T14:24:43Z",
-  "notes": "- 新增：下载页支持「播放合并版」与续播记忆，合集卡片新增「已合并」角标\n- 新增：下载并发数支持 1~8 档自定义（下载页快捷切换 + 设置页同步）\n- 新增：「联系作者」与赞助用户在线客服聊天（支持发图、一键附带诊断日志、撤回及未读提醒），移除冗余「离线模式」页\n- 优化：合并视频启用 VideoToolbox 硬件加速，支持多任务分级并发与三段快速抽检\n- 修复：已下载剧集从历史/详情进入未预加载下一集的问题\n- 同步：红果三域名轮换与 V5 / ByteVC2 播放线路优化\n> 测试版，正式版用户不受影响\n",
-  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/tag/ios-app-v4.6.92-271-beta",
+  "assets": [
+    {
+      "edition": "duanjuzhijia2",
+      "abi": "ios",
+      "name": "duanjuzhijia2-4.6.126+305-ios-unsigned.ipa",
+      "url": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-v4.6.126-305-beta/duanjuzhijia2-4.6.126%2B305-ios-unsigned.ipa",
+      "urls": [
+        "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-v4.6.126-305-beta/duanjuzhijia2-4.6.126%2B305-ios-unsigned.ipa",
+        "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-v4.6.126-305-beta/duanjuzhijia2-4.6.126%2B305-ios-unsigned.ipa",
+        "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-v4.6.126-305-beta/duanjuzhijia2-4.6.126%2B305-ios-unsigned.ipa",
+        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-v4.6.126-305-beta/duanjuzhijia2-4.6.126%2B305-ios-unsigned.ipa"
+      ],
+      "size": 44445446,
+      "sha256": "a05061419635427eb07c58b53067b9961915ce7906c175a3551ef5345c75da56",
+      "notes": "- 全新设计：「刷一刷」与「找剧」页面全面重构升级，刷一刷顶部频道栏、底部悬浮剧集胶囊、无边框右侧操作栏与选集抽屉焕然一新；找剧页升级液态玻璃分类栏与筛选面板\n- 新增：刷一刷与完整/全屏播放器接入视频缩略图雪碧图（支持拖动进度条与横滑画面实时预览、两级并发预加载与流光加载动画），可在「播放设置」随时开关（默认开启）\n- 新增：长按加速支持上下滑动实时调节倍速（默认关闭），可在「播放设置 → 手势与操作」开启并自定义滑动方向、每档倍速步进与滑动幅度\n- 优化：大幅提升刷一刷连续下滑与切集流畅度（切集瞬间静音、快速连滑防抖、杜绝页面回弹错位、预热后续 50 集首帧缩略图）；「全屏观看」直接进入全屏播放器不再绕道详情页\n- 优化：同步升级红果客户端协议、多节点健康轮换与后台 3 集滚动预热，修复找剧页筛选无数据、暂停时点击居中播放图标无响应等问题"
+    }
+  ],
   "gate": {
     "salt": "djzj-2285498e2ed7",
     "hash": "d4e4fdd5e2e353de5b7ec05e9a401b93a6a40d96556afea405d574c3a40758bf",
     "iterations": 2000,
     "group": "https://t.me/duanjuzhijia",
     "hint": "4 位数字"
-  },
-  "assets": [
-    {
-      "edition": "duanjuzhijia2",
-      "abi": "ios",
-      "name": "duanjuzhijia2-4.6.92+271-ios-unsigned.ipa",
-      "url": "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.92-271-beta/duanjuzhijia2-4.6.92%2B271-ios-unsigned.ipa",
-      "urls": [
-        "https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.92-271-beta/duanjuzhijia2-4.6.92%2B271-ios-unsigned.ipa",
-        "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.92-271-beta/duanjuzhijia2-4.6.92%2B271-ios-unsigned.ipa",
-        "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.92-271-beta/duanjuzhijia2-4.6.92%2B271-ios-unsigned.ipa",
-        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-ios/releases/download/ios-app-v4.6.92-271-beta/duanjuzhijia2-4.6.92%2B271-ios-unsigned.ipa"
-      ],
-      "size": 44228542,
-      "sha256": "c8f5324eeeadc300f69e91e9818d29d9c5e7503f30646e4396cdc1a4684db8e8",
-      "notes": "- 新增：下载页支持「播放合并版」与续播记忆，合集卡片新增「已合并」角标\n- 新增：下载并发数支持 1~8 档自定义（下载页快捷切换 + 设置页同步）\n- 新增：「联系作者」与赞助用户在线客服聊天（支持发图、一键附带诊断日志、撤回及未读提醒），移除冗余「离线模式」页\n- 优化：合并视频启用 VideoToolbox 硬件加速，支持多任务分级并发与三段快速抽检\n- 修复：已下载剧集从历史/详情进入未预加载下一集的问题\n- 同步：红果三域名轮换与 V5 / ByteVC2 播放线路优化\n> 测试版，正式版用户不受影响\n"
-    }
-  ]
+  }
 }
